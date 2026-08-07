@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
