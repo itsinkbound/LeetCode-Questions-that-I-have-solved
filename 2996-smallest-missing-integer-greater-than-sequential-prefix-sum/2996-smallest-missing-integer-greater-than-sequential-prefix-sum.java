@@ -1,0 +1,15 @@
+class Solution {
+    public int missingInteger(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+        for(int x:nums){
+            set.add(x);
+        }
+        int sum = nums[0],i=1;
+        while( i<nums.length && nums[i]==nums[i-1]+1 ){
+            sum+=nums[i];
+            i++;
+        }
+        while(set.contains(sum)) sum++;
+        return sum;
+    }
+}
