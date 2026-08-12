@@ -1,5 +1,10 @@
 class Solution {
     public int maxSubarrayLength(int[] nums, int k) {
+        // sliding window approach 
+        // best way is to create a hasmap of frequency as we move the window and if a 
+        // element matches with what we got in the current element then maybe we can
+        // delete from the window till we arrive at the first occurence of the element and thus removing that in the end
+        
         HashMap<Integer,Integer> map = new HashMap <>();
         int ans = 0;
         int i=0;
