@@ -1,19 +1,21 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
         int ans =0;
-        HashMap<Character, Integer> map = new HashMap<>();
-        int j=0;
-        for(int i=0;i<s.length();i++){
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
-            if(map.get(s.charAt(i))>2){
-                while(s.charAt(i)!=s.charAt(j)){
-                    map.put(s.charAt(j),map.get(s.charAt(j))-1);
-                    j++;
-                }
-                map.put(s.charAt(j),map.get(s.charAt(j))-1);
+        int[] count = new int[26]; // Fixed size array is faster than HashMap for lowercase English letters
+        int j = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            char rightChar = s.charAt(i);
+            count[rightChar - 'a']++;
+
+            // Shrink window until the current character's count is at most 2
+            while (count[rightChar - 'a'] > 2) {
+                char leftChar = s.charAt(j);
+                count[leftChar - 'a']--;
                 j++;
             }
-            ans = Math.max(i-j+1,ans);
+
+            ans = Math.max(ans, i - j + 1);
         }
         return ans;
         
