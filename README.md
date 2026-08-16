@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Game Theory
 |  |
@@ -119,18 +123,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
