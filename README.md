@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
