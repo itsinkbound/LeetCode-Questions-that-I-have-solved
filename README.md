@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
