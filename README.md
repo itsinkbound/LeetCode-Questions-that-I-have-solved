@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0053-maximum-subarray) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
