@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
