@@ -20,7 +20,7 @@ class Solution {
             pivot--;
         }
         if(pivot==-1){
-            Arrays.sort(nums);
+            reverse(nums,0,n-1);
             return;
         }
         int right = n-1;
