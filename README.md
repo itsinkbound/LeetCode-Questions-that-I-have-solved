@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Game Theory
@@ -197,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
