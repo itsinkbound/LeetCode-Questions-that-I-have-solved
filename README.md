@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
