@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 ## Quicksort
 |  |
