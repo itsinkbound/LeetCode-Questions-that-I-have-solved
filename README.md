@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
