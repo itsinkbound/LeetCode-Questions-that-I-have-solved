@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1872-stone-game-viii) |
