@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 ## Quicksort
 |  |
