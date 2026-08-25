@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -298,4 +300,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
