@@ -5,7 +5,7 @@ class Solution {
         int[] res = new int[n-k+1];
         for(int i=0;i<n;i++){
             //remove the non valid elements
-            while(!dq.isEmpty() && dq.peekFirst()<i-k+1){
+            while(!dq.isEmpty() && dq.peekFirst()<=i-k){
                 dq.pollFirst();
             }
             //add valid maximum
