@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Game Theory
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -338,4 +343,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
