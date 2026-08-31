@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
