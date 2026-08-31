@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
