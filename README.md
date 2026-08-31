@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
