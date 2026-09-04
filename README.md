@@ -355,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
