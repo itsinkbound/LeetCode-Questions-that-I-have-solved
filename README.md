@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
