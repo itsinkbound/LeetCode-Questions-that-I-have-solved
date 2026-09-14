@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1563-stone-game-v) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/2965-find-missing-and-repeated-values) |
 ## Quicksort
 |  |
