@@ -241,15 +241,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -373,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/1757-recyclable-and-low-fat-products) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/itsinkbound/LeetCode-Questions-that-I-have-solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
